@@ -6,8 +6,8 @@ window.SITE_CONFIG={
   // Delivery target for the mailto fallback only, never displayed. TEMPORARY: until dr.pankaj@laserprostatectomy.com
   // is set up, the form delivery target (this value AND the form endpoint's destination mailbox) must be
   // dr.maheshwaripn@gmail.com. When the mailbox is live, set this to the same value as `email`.
-  deliveryEmail:"dr.maheshwaripn@gmail.com",
+  deliveryEmail:"dr.pankaj@laserprostatectomy.com",
   // TODO: set to a Formspree / FormSubmit URL to make the form post directly. Leave empty to use the mailto fallback.
   // Formspree: "https://formspree.io/f/<form-id>"   FormSubmit: "https://formsubmit.co/<email-or-token>"
-  formEndpoint:""
+  formEndpoint:"https://formsubmit.co/ajax/325d0cd781d06ce5df2fbf3bfaf8a31e"
 };
