@@ -1,0 +1,4 @@
+{
+  "_help": "Add one object per photo to the 'photos' list. 'file' is the file name inside assets/gallery/. See assets/gallery/README.md.",
+  "photos": []
+}
